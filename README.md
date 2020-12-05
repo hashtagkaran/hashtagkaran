@@ -2,7 +2,7 @@
 ## Hey I am  hashtagKaran - Karan Singh 
 #### Developer and Designer
 ---
-[![karan singh's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg) width="50%"](https://dev.to/hashtagkaran)
+[![karan singh's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/hashtagkaran)
 
 ### Languages & Technology:
 `JavaScript`  &nbsp;  `CSS3`&nbsp;  `ReactJS` &nbsp; `ReactNative`
